@@ -1,5 +1,1 @@
-# hanif_first_Repo
-
-learning git hub
-
-learning Python
+This Repository is about course content of Python and Machine Learning
